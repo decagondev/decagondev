@@ -23,7 +23,7 @@
 | **Spring BOOT Projects**         | **Linux Administration**      | **DevOPS / SysOPS**                   |
 | **Network Security**             | **Systems Architecture**      | **Database Design**                  |
 
-## 📫 How to reach me **tom@decadev.co.uk**
+## 📫 How to reach me [tom@decadev.co.uk](mailto:tom@decadev.co.uk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
