@@ -9,19 +9,43 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=decagondev&label=Profile%20views&color=0e75b6&style=flat" alt="decagondev" /> </p>
 
 ## 💬 Ask me about 
-- **Operating System Development**
-- **React JS**
-- **APIs**
-- **PHP**
-- **C++**
-- **C#**
-- **Assembly**
-- **Java**
-- **SpringBOOT**
-- **Wordpress**
-- **SEO**
-- **Network Security**
-
+<div style="display: flex; flex-direction: row;">
+            <ul>
+                <li><strong>Operating System Development</strong></li>
+                <li><strong>Assembly Programming</strong></li>
+                <li><strong>C++ Programming</strong></li>
+                <li><strong>C# Programming</strong></li>
+                <li><strong>Python Programming</strong></li>
+                <li><strong>Java Programming</strong></li>
+                <li><strong>PHP Programming</strong></li>
+                <li><strong>React JS Projects</strong></li>
+                <li><strong>Spring BOOT Projects</strong></li>
+                <li><strong>AWS Cloud Infrasructure</strong></li>
+                <li><strong>Linux Administration</strong></li>
+                <li><strong>DevOPS / SysOPS</strong></li>
+                <li><strong>Network Security</strong></li>
+                <li><strong>Systems Architecture</strong></li>
+                <li><strong>Database Design</strong></li>
+            </ul>
+            <ul>
+                <li><strong>PostgreSQL Administration</strong></li>
+                <li><strong>Mobile Applications</strong></li>
+                <li><strong>Web Applications</strong></li>
+                <li><strong>Application Testing</strong></li>
+                <li><strong>Desktop Applications</strong></li>
+                <li><strong>Web App Monitoring</strong></li>
+                <li><strong>SaaS / PaaS</strong></li>
+                <li><strong>Remote Desktop Administration</strong></li>
+                <li><strong>Server Administration</strong></li>
+                <li><strong>Project Management</strong></li>
+                <li><strong>Flask Micro-Framework</strong></li>
+                <li><strong>Django Framework</strong></li>
+                <li><strong>Pygame For GUI Programming</strong></li>
+                <li><strong>Emulation Programming</strong></li>
+                <li><strong>System Utility Development</strong></li>
+            </ul>
+    </div>
+    
 ## 📫 How to reach me **tom@decadev.co.uk**
 
 <h3 align="left">Connect with me:</h3>
