@@ -2,7 +2,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Tom Tarpey</h1>
-<h3 align="center">A Computer Science, Enterprise Backend Development Full Stack Instructor, Full-Stack,Front-End and Enterprise Back-End Software Developer, Operating Systems and Embeded Systems Software Developer, Dev-OPS, Sys-OPS Systems Architect with strong hardware and software architecture skills, Network Security Enthusiast and Hardware Hacker with over 20 years of industry experience</h3>
+<h3 align="center">A Computer Science, Enterprise Backend Development Full Stack Instructor, Full-Stack, Front-End and Enterprise Back-End Software Developer, Operating Systems and Embeded Systems Software Developer, Dev-OPS, Sys-OPS Systems Architect with strong hardware and software architecture skills, Network Security Enthusiast and Hardware Hacker with over 20 years of industry experience</h3>
 
 
 
