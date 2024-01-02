@@ -9,43 +9,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=decagondev&label=Profile%20views&color=0e75b6&style=flat" alt="decagondev" /> </p>
 
 ## 💬 Ask me about 
-<div style="display: flex; flex-direction: row;">
-            <ul>
-                <li><strong>Operating System Development</strong></li>
-                <li><strong>Assembly Programming</strong></li>
-                <li><strong>C++ Programming</strong></li>
-                <li><strong>C# Programming</strong></li>
-                <li><strong>Python Programming</strong></li>
-                <li><strong>Java Programming</strong></li>
-                <li><strong>PHP Programming</strong></li>
-                <li><strong>React JS Projects</strong></li>
-                <li><strong>Spring BOOT Projects</strong></li>
-                <li><strong>AWS Cloud Infrasructure</strong></li>
-                <li><strong>Linux Administration</strong></li>
-                <li><strong>DevOPS / SysOPS</strong></li>
-                <li><strong>Network Security</strong></li>
-                <li><strong>Systems Architecture</strong></li>
-                <li><strong>Database Design</strong></li>
-            </ul>
-            <ul>
-                <li><strong>PostgreSQL Administration</strong></li>
-                <li><strong>Mobile Applications</strong></li>
-                <li><strong>Web Applications</strong></li>
-                <li><strong>Application Testing</strong></li>
-                <li><strong>Desktop Applications</strong></li>
-                <li><strong>Web App Monitoring</strong></li>
-                <li><strong>SaaS / PaaS</strong></li>
-                <li><strong>Remote Desktop Administration</strong></li>
-                <li><strong>Server Administration</strong></li>
-                <li><strong>Project Management</strong></li>
-                <li><strong>Flask Micro-Framework</strong></li>
-                <li><strong>Django Framework</strong></li>
-                <li><strong>Pygame For GUI Programming</strong></li>
-                <li><strong>Emulation Programming</strong></li>
-                <li><strong>System Utility Development</strong></li>
-            </ul>
-    </div>
-    
+
+|                             |                             |                                         |
+|-----------------------------|-----------------------------|-----------------------------------------|
+| **Operating System Development** | **PostgreSQL Administration** | **Mobile Applications**               |
+| **Assembly Programming**         | **Web Applications**          | **Application Testing**               |
+| **C++ Programming**              | **Desktop Applications**      | **Web App Monitoring**                |
+| **C# Programming**               | **SaaS / PaaS**               | **Remote Desktop Administration**     |
+| **Python Programming**           | **Server Administration**     | **Project Management**                |
+| **Java Programming**             | **Flask Micro-Framework**     | **Django Framework**                  |
+| **PHP Programming**              | **Pygame For GUI Programming**| **Emulation Programming**             |
+| **React JS Projects**            | **System Utility Development**| **AWS Cloud Infrastructure**         |
+| **Spring BOOT Projects**         | **Linux Administration**      | **DevOPS / SysOPS**                   |
+| **Network Security**             | **Systems Architecture**      | **Database Design**                  |
+
 ## 📫 How to reach me **tom@decadev.co.uk**
 
 <h3 align="left">Connect with me:</h3>
