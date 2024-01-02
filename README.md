@@ -79,7 +79,7 @@
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" width="50px" alt="c" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" width="70px" alt="java" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" width="50px" alt="javascript" />
-  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.svg" width="50px" alt="php" />
+  <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png" width="50px" alt="php" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width="50px" alt="python" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/ruby.svg" width="50px" alt="ruby" />
   <img align="center" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/rust.svg" width="50px" alt="rust" />
