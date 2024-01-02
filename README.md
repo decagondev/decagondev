@@ -9,7 +9,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=decagondev&label=Profile%20views&color=0e75b6&style=flat" alt="decagondev" /> </p>
 
 ## 💬 Ask me about 
-**Operating System Development, React JS, APIs, PHP, C++, C#, Assembly, Java, SpringBOOT, Wordpress, SEO, Network Security**
+- **Operating System Development**
+- **React JS**
+- **APIs**
+- **PHP**
+- **C++**
+- **C#**
+- **Assembly**
+- **Java**
+- **SpringBOOT**
+- **Wordpress**
+- **SEO**
+- **Network Security**
 
 ## 📫 How to reach me **tom@decadev.co.uk**
 
