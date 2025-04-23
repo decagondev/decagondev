@@ -10,20 +10,62 @@
 </p>
 
 
-## 💬 Ask me about
+<h2 align="center">💬 Ask Me About</h2>
 
-|                             |                             |                                         |
-|-----------------------------|-----------------------------|-----------------------------------------|
-| **Operating System Development** | **PostgreSQL Administration** | **Mobile Applications**               |
-| **Assembly Programming**         | **Web Applications**          | **Application Testing**               |
-| **C++ Programming**              | **Desktop Applications**      | **Web App Monitoring**                |
-| **C# Programming**               | **SaaS / PaaS**               | **Remote Desktop Administration**     |
-| **Python Programming**           | **Server Administration**     | **Project Management**                |
-| **Java Programming**             | **Flask Micro-Framework**     | **Django Framework**                  |
-| **PHP Programming**              | **Pygame GUI Programming**    | **Emulation Programming**             |
-| **React JS Projects**            | **System Utility Development**| **AWS Cloud Infrastructure**          |
-| **Spring BOOT Projects**         | **Linux Administration**      | **DevOPS / SysOPS**                   |
-| **Network Security**             | **Systems Architecture**      | **Database Design**                   |
+<table align="center" style="margin: auto; border-spacing: 12px; text-align: center;">
+  <tr>
+    <td><img src="https://img.shields.io/badge/Operating_System_Development-purple?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL_Administration-green?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Mobile_Applications-red?style=flat" style="display:block; margin:auto; height:32px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Assembly_Programming-blue?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Web_Applications-yellow?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Application_Testing-purple?style=flat" style="display:block; margin:auto; height:32px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C++_Programming-green?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Desktop_Applications-red?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Web_App_Monitoring-blue?style=flat" style="display:block; margin:auto; height:32px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/CSharp_Programming-yellow?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/SaaS_/_PaaS-purple?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Remote_Desktop_Admin-green?style=flat" style="display:block; margin:auto; height:32px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python_Programming-red?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Server_Administration-blue?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Project_Management-yellow?style=flat" style="display:block; margin:auto; height:32px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Java_Programming-purple?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Flask_Microframework-green?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Django_Framework-red?style=flat" style="display:block; margin:auto; height:32px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/PHP_Programming-blue?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Pygame_GUI-yellow?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Emulation_Programming-purple?style=flat" style="display:block; margin:auto; height:32px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/React_JS-green?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/System_Utilities-red?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/AWS_Cloud_Infrastructure-blue?style=flat" style="display:block; margin:auto; height:32px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Spring_BOOT-yellow?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Linux_Administration-purple?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/DevOPS_/_SysOPS-green?style=flat" style="display:block; margin:auto; height:32px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Network_Security-red?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Systems_Architecture-blue?style=flat" style="display:block; margin:auto; height:32px;"></td>
+    <td><img src="https://img.shields.io/badge/Database_Design-yellow?style=flat" style="display:block; margin:auto; height:32px;"></td>
+  </tr>
+</table>
+
+
 
 
 ## 📫 Reach Me  
@@ -108,17 +150,3 @@
   </tr>
 </table>
 
-
----
-
-## 🚀 Tech Badges
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
----
